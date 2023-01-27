@@ -25,3 +25,10 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+References / Sources
+====================
+
+*Cmput404 Lab2: https://uofa-cmput404.github.io/lab-2-tcp-proxy.html
+*https://docs.python.org/3/library/socketserver.html
+*HTTP Messages(Requests & Response): https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
+*
