@@ -31,4 +31,5 @@ References / Sources
 * Cmput404 Lab2: https://uofa-cmput404.github.io/lab-2-tcp-proxy.html
 * https://docs.python.org/3/library/socketserver.html
 * HTTP Messages(Requests & Response): https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
+* MimeTypes: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Configuring_server_MIME_types
 
